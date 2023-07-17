@@ -1,2 +1,2 @@
 # adivinhe-numero
-Jogo de adivinhe o número
+Jogo de adivinhe o número feito com JavaScript. 
