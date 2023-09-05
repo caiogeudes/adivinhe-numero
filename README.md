@@ -15,3 +15,7 @@ git clone https://github.com/caiogeudes/adivinhe-numero.git
 
 ## **Execução**
 ### Para executarmos o projeto, basta apenas abrirmos o arquivo _index.js_ em algum browser ou pelo _Live Server_
+
+
+## **Anexos:**
+![print](https://github.com/caiogeudes/adivinhe-numero/assets/136899479/bb3a815d-420b-407a-94c4-effdf9ba9a05)
